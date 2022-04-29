@@ -1,0 +1,4 @@
+D:\各种文件\三维图形设计\SpiralCurve\Debug\SpiralCurve.exe
+D:\各种文件\三维图形设计\SpiralCurve\Debug\SpiralCurve.pdb
+D:\各种文件\三维图形设计\3D\第一次实验\程序和代码\SpiralCurve\Debug\SpiralCurve.exe
+D:\各种文件\三维图形设计\3D\第一次实验\程序和代码\SpiralCurve\Debug\SpiralCurve.pdb

@@ -1,0 +1,4 @@
+﻿  SpiralCurve.cpp
+D:\各种文件\三维图形设计\3D\第一次实验\程序和代码\SpiralCurve\SpiralCurve.cpp(295,19): warning C4018: “<”: 有符号/无符号不匹配
+D:\各种文件\三维图形设计\3D\第一次实验\程序和代码\SpiralCurve\SpiralCurve.cpp(290,21): warning C4101: “j”: 未引用的局部变量
+  SpiralCurve.vcxproj -> D:\各种文件\三维图形设计\3D\第一次实验\程序和代码\SpiralCurve\Debug\SpiralCurve.exe
